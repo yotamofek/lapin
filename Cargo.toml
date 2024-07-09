@@ -60,7 +60,6 @@ version = "^0.1"
 default-features = false
 
 [dependencies]
-async-reactor-trait = "^1.1"
 async-trait = "^0.1.42"
 executor-trait = "^2.1"
 futures-core = "^0.3"
